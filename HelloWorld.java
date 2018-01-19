@@ -1,6 +1,6 @@
 /**
  *
- * @author Your Name
+ * @author Wilhelm Gusztav M. Francia
  */
 
 public class HelloWorld {
